@@ -31,6 +31,10 @@ Early start. This is the first checkpoint, not the finished app.
 3. Run `flutter pub get`
 4. Run `flutter run`
 
+If your editor shows red everywhere, it usually means `flutter pub get` has not run
+yet. Run it, then restart the editor (or run "Dart: Restart Analysis Server").
+Needs Flutter 3.10 or newer.
+
 ## Folder structure (MVVM)
 
 ```
